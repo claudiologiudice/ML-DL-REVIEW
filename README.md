@@ -9,7 +9,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Artificial Neural networks OR ANN OR ANN</td>
+    <td class="tg-0pky">Artificial Neural networks OR ANN</td>
     <td class="tg-0pky">gene selection; genotype-phenotype analysis; risk classification; transcriptome profiling; variant extraction</td>
     <td class="tg-0pky">[29536823]; [32359808]; [24631783]; [24820964]; [25883319]</td>
   </tr>

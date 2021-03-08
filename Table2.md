@@ -46,7 +46,8 @@
   <tr>
     <td>LASSO</td>
     <td>intratumoral heterogeneity; biomarkers selection; gene selection; gene expression analysis</td>
-    <td>31310640; 30458775; 31888444 - 29957558; 30458775</td>
+    <!--td>31310640; 30458775; 31888444 - 29957558; 30458775</td-->
+  <td><a href="https://pubmed.ncbi.nlm.nih.gov/31310640">31310640;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/30458775">30458775;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/31888444">31888444</a> <a href="https://pubmed.ncbi.nlm.nih.gov/-">-</a> <a href="https://pubmed.ncbi.nlm.nih.gov/29957558">29957558;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/30458775">30458775</a></td>
   </tr>
   <tr>
     <td>Linear Discriminant Analysis OR LDA OR Normal Discriminant Analysis</td>

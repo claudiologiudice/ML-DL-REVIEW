@@ -56,13 +56,15 @@
   <tr>
     <td>Logistic regression OR LR OR Binomial Regression</td>
     <td>gene prediction; gene selection; drug-induced gene expression</td>
-    <td>33160303; 29989970; 31664045</td>
+    <!--td>33160303; 29989970; 31664045</td-->
+ <td><a href="https://pubmed.ncbi.nlm.nih.gov/33160303">33160303;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/29989970">29989970;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/31664045">31664045</a></td>
   </tr>
   <tr>
     <td>Naive Bayes</td>
     <td>gene selection; pharmacogenetic prediction</td>
     <td>22369383; 30546092</td>
-  </tr>
+  <td><a href="https://pubmed.ncbi.nlm.nih.gov/22369383">22369383;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/30546092">30546092</a></td>
+</tr>
   <tr>
     <td>Nearest Neighbor classifier OR NN</td>
     <td>gene selection</td>

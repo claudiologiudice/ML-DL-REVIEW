@@ -16,3 +16,9 @@ This repo contains Figures, Supplementary Materials and scripts related to the r
 <ul>Scripts
 <li></li>
 </ul>
+
+<ul>Database
+  <li><a href="https://github.com/claudiologiudice/ML-DL-REVIEW/blob/main/ML_DL_review_articles.db.tar.gz">ML_DL_review_articles.db.tar.gz</a></li>
+</ul>
+Query:
+("Next Generation Sequencing" OR "single cell sequencing" OR "gene expression" OR "transcriptomics") AND ("machine learning" OR "deep learning") AND ('human')

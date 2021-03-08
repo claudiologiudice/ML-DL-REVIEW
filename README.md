@@ -8,7 +8,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lwba">Artificial Neural networks OR ANN OR ANN</td>
+    <td class="tg-lwba">Artificial Neural networks OR ANN</td>
     <td class="tg-lwba">gene selection; genotype-phenotype analysis; risk classification; transcriptome profiling; variant extraction</td>
     <td class="tg-lwba">29536823; 32359808; 24631783; 24820964; 25883319</td>
   </tr>

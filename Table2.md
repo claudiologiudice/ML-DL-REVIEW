@@ -25,17 +25,23 @@
   <tr>
     <td>Deep neural networks OR DNNConvolutional Neural Networks or CNN</td>
     <td>mutation-gene-drug relations; gene expression analysis</td>
-    <td>29368597; 31395005</td>
+    <!--td>29368597; 31395005</td-->
+  <td><a href="https://pubmed.ncbi.nlm.nih.gov/29368597">29368597;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/31395005">31395005</a></td>
+
   </tr>
   <tr>
     <td>K nearest neighbor OR K-NN</td>
     <td>gene selection</td>
-    <td>26159165</td>
+    <!--td>26159165</td-->
+  <td><a href="https://pubmed.ncbi.nlm.nih.gov/26159165">26159165</a></td>
+
   </tr>
   <tr>
     <td>K-means</td>
     <td>candidate mirna targets</td>
-    <td>30973878</td>
+    <!--td>30973878</td-->
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/30973878">30973878</a></td>
+
   </tr>
   <tr>
     <td>LASSO</td>

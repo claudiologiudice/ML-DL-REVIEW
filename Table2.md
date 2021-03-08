@@ -50,7 +50,8 @@
   <tr>
     <td>Linear Discriminant Analysis OR LDA OR Normal Discriminant Analysis</td>
     <td>transcriptome profiling; mirna biomarkers</td>
-    <td>32887275; 28361698</td>
+    <!--td>32887275; 28361698</td-->
+  <td><a href="https://pubmed.ncbi.nlm.nih.gov/32887275">32887275;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/28361698">28361698</a></td>
   </tr>
   <tr>
     <td>Logistic regression OR LR OR Binomial Regression</td>

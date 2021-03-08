@@ -55,7 +55,7 @@
   <tr>
     <td>Nearest Neighbor classifier OR NN</td>
     <td>gene selection</td>
-    <td>26159165</td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/26159165">26159165</a></td>
   </tr>
   <tr>
     <td>Perceptron</td>

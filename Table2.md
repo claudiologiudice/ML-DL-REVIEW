@@ -10,7 +10,7 @@
   <tr>
     <td class="tg-lwba">Artificial Neural networks OR ANN</td>
     <td class="tg-lwba">gene selection; genotype-phenotype analysis; risk classification; transcriptome profiling; variant extraction</td>
-    <td class="tg-lwba">29536823; 32359808; 24631783; 24820964; 25883319</td>
+    <td class="tg-lwba">https://pubmed.ncbi.nlm.nih.gov/29536823; https://pubmed.ncbi.nlm.nih.gov/32359808; https://pubmed.ncbi.nlm.nih.gov/24631783; https://pubmed.ncbi.nlm.nih.gov/24820964; https://pubmed.ncbi.nlm.nih.gov/25883319</td>
   </tr>
   <tr>
     <td class="tg-lwba">Autoencoder</td>

@@ -2,7 +2,7 @@
 This repo contains Figures, Supplementary Materials and scripts related to the review "XXXXX"
 
 <ul>Tables
-<li></li>
+  <li><a href="https://github.com/claudiologiudice/ML-DL-REVIEW/blob/main/Table2.md">Table2</a></li>
 </ul>
 
 <ul>Figures

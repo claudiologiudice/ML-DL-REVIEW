@@ -8,7 +8,7 @@
 </thead>
 <tbody>
   <tr>
-    <td>Artificial Neural networks OR ANN</td>
+    <td>Artificial Neural networks OR ANN OR ANN</td>
     <td>gene selection; genotype-phenotype analysis; risk classification; transcriptome profiling; variant extraction</td>
     <!--td>29536823; 32359808; 24631783; 24820964; 25883319</td-->
     <td><a href="https://pubmed.ncbi.nlm.nih.gov/29536823">29536823;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/32359808">32359808;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/24631783">24631783;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/24820964">24820964;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/25883319">25883319</a>
@@ -26,22 +26,20 @@
     <td>Deep neural networks OR DNNConvolutional Neural Networks or CNN</td>
     <td>mutation-gene-drug relations; gene expression analysis</td>
     <!--td>29368597; 31395005</td-->
-  <td><a href="https://pubmed.ncbi.nlm.nih.gov/29368597">29368597;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/31395005">31395005</a></td>
-
+  <td><a href="https://pubmed.ncbi.nlm.nih.gov/29368597">29368597;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/31395005">31395005</a></td>  
   </tr>
   <tr>
     <td>K nearest neighbor OR K-NN</td>
     <td>gene selection</td>
     <!--td>26159165</td-->
   <td><a href="https://pubmed.ncbi.nlm.nih.gov/26159165">26159165</a></td>
-
+</td>
   </tr>
   <tr>
     <td>K-means</td>
     <td>candidate mirna targets</td>
     <!--td>30973878</td-->
     <td><a href="https://pubmed.ncbi.nlm.nih.gov/30973878">30973878</a></td>
-
   </tr>
   <tr>
     <td>LASSO</td>

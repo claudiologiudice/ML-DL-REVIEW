@@ -10,7 +10,7 @@ This repo contains Figures, Supplementary Materials and scripts related to the r
 </ul>
 
 <ul>Supplementary files
-<li></li>
+  <li><a href="https://github.com/claudiologiudice/ML-DL-REVIEW/blob/main/supplementary_material.pdf">Supplementary_material</a></li>
 </ul>
 
 <ul>Scripts

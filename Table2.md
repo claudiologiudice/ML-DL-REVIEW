@@ -12,7 +12,7 @@
 .tg-sort-header:hover:after{visibility:visible}
 .tg-sort-asc:after,.tg-sort-asc:hover:after,.tg-sort-desc:after{visibility:visible;opacity:.4}
 .tg-sort-desc:after{border-bottom:none;border-width:5px 5px 0}@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
-<div class="tg-wrap"><table id="tg-812iz" class="tg">
+<div class="tg-wrap"><table id="tg-N02OK" class="tg">
 <thead>
   <tr>
     <th class="tg-0lax">Tecnique</th>
@@ -24,67 +24,67 @@
   <tr>
     <td class="tg-0lax">Artificial Neural networks OR ANN OR ANN</td>
     <td class="tg-0lax">gene selection; genotype-phenotype analysis; risk classification; transcriptome profiling; variant extraction</td>
-    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/"29536823; 32359808; 24631783; 24820964; 25883319"&gt;29536823; 32359808; 24631783; 24820964; 25883319&lt;/a&gt;</td>
+    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/29536823; 32359808; 24631783; 24820964; 25883319"&gt;29536823; 32359808; 24631783; 24820964; 25883319&lt;/a&gt;</td>
   </tr>
   <tr>
     <td class="tg-0lax">Autoencoder</td>
     <td class="tg-0lax">gene prediction</td>
-    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/"33160303"&gt;33160303&lt;/a&gt;</td>
+    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/33160303"&gt;33160303&lt;/a&gt;</td>
   </tr>
   <tr>
     <td class="tg-0lax">Deep neural networks OR DNNConvolutional Neural Networks or CNN</td>
     <td class="tg-0lax">mutation-gene-drug relations; gene expression analysis</td>
-    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/"29368597; 31395005"&gt;29368597; 31395005&lt;/a&gt;</td>
+    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/29368597; 31395005"&gt;29368597; 31395005&lt;/a&gt;</td>
   </tr>
   <tr>
     <td class="tg-0lax">K nearest neighbor OR K-NN</td>
     <td class="tg-0lax">gene selection</td>
-    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/"26159165"&gt;26159165&lt;/a&gt;</td>
+    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/26159165"&gt;26159165&lt;/a&gt;</td>
   </tr>
   <tr>
     <td class="tg-0lax">K-means</td>
     <td class="tg-0lax">candidate mirna targets</td>
-    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/"30973878"&gt;30973878&lt;/a&gt;</td>
+    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/30973878"&gt;30973878&lt;/a&gt;</td>
   </tr>
   <tr>
     <td class="tg-0lax">LASSO</td>
     <td class="tg-0lax">intratumoral heterogeneity; biomarkers selection; gene selection; gene expression analysis</td>
-    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/"31310640; 30458775; 31888444 - 29957558; 30458775"&gt;31310640; 30458775; 31888444 - 29957558; 30458775&lt;/a&gt;</td>
+    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/31310640; 30458775; 31888444 - 29957558; 30458775"&gt;31310640; 30458775; 31888444 - 29957558; 30458775&lt;/a&gt;</td>
   </tr>
   <tr>
     <td class="tg-0lax">Linear Discriminant Analysis OR LDA OR Normal Discriminant Analysis</td>
     <td class="tg-0lax">transcriptome profiling; mirna biomarkers</td>
-    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/"32887275; 28361698"&gt;32887275; 28361698&lt;/a&gt;</td>
+    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/32887275; 28361698"&gt;32887275; 28361698&lt;/a&gt;</td>
   </tr>
   <tr>
     <td class="tg-0lax">Logistic regression OR LR OR Binomial Regression</td>
     <td class="tg-0lax">gene prediction; gene selection; drug-induced gene expression</td>
-    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/"33160303; 29989970; 31664045"&gt;33160303; 29989970; 31664045&lt;/a&gt;</td>
+    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/33160303; 29989970; 31664045"&gt;33160303; 29989970; 31664045&lt;/a&gt;</td>
   </tr>
   <tr>
     <td class="tg-0lax">Naive Bayes</td>
     <td class="tg-0lax">gene selection; pharmacogenetic prediction</td>
-    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/"22369383; 30546092"&gt;22369383; 30546092&lt;/a&gt;</td>
+    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/22369383; 30546092"&gt;22369383; 30546092&lt;/a&gt;</td>
   </tr>
   <tr>
     <td class="tg-0lax">Nearest Neighbor classifier OR NN</td>
     <td class="tg-0lax">gene selection</td>
-    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/"26159165"&gt;26159165&lt;/a&gt;</td>
+    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/26159165"&gt;26159165&lt;/a&gt;</td>
   </tr>
   <tr>
     <td class="tg-0lax">Perceptron</td>
     <td class="tg-0lax">gene selection</td>
-    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/"27762231"&gt;27762231&lt;/a&gt;</td>
+    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/27762231"&gt;27762231&lt;/a&gt;</td>
   </tr>
   <tr>
     <td class="tg-0lax">Random forest OR RF</td>
     <td class="tg-0lax">tissue-selective genes; gene prediction; co-acting gene networks; gene selection; mutation-gene-drug relations; gene expression analysis; mirna biomarkers; drug-induced gene expression</td>
-    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/"23369200; 23369200 - 33160303; 25527049; 24953305 - 26159165 - 22369383; 29368597; 32535186 - 30828420 - 33318199; 32473385 - 32236623; 32780735"&gt;23369200; 23369200 - 33160303; 25527049; 24953305 - 26159165 - 22369383; 29368597; 32535186 - 30828420 - 33318199; 32473385 - 32236623; 32780735&lt;/a&gt;</td>
+    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/23369200; 23369200 - 33160303; 25527049; 24953305 - 26159165 - 22369383; 29368597; 32535186 - 30828420 - 33318199; 32473385 - 32236623; 32780735"&gt;23369200; 23369200 - 33160303; 25527049; 24953305 - 26159165 - 22369383; 29368597; 32535186 - 30828420 - 33318199; 32473385 - 32236623; 32780735&lt;/a&gt;</td>
   </tr>
   <tr>
     <td class="tg-0lax">Support Vector Machine OR SVM</td>
     <td class="tg-0lax">intratumoral heterogeneity; tissue-selective genes; gene prediction; gene selection; disease-gene association; gene expression analysis; signatures from gene-pathway; disease gene prioritization; mirna signatures</td>
-    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/"31310640; 23369200; 23369200 - 33160303; 23060613 - 22369383 - 27762231 - 29536823 - 26159165 - 21982277; 31825992; 29468833; 25126556; 22808075; 26466382"&gt;31310640; 23369200; 23369200 - 33160303; 23060613 - 22369383 - 27762231 - 29536823 - 26159165 - 21982277; 31825992; 29468833; 25126556; 22808075; 26466382&lt;/a&gt;</td>
+    <td class="tg-0lax">&lt;a href:"https://pubmed.ncbi.nlm.nih.gov/31310640; 23369200; 23369200 - 33160303; 23060613 - 22369383 - 27762231 - 29536823 - 26159165 - 21982277; 31825992; 29468833; 25126556; 22808075; 26466382"&gt;31310640; 23369200; 23369200 - 33160303; 23060613 - 22369383 - 27762231 - 29536823 - 26159165 - 21982277; 31825992; 29468833; 25126556; 22808075; 26466382&lt;/a&gt;</td>
   </tr>
 </tbody>
 </table></div>

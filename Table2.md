@@ -73,7 +73,8 @@
   <tr>
     <td>Perceptron</td>
     <td>gene selection</td>
-    <td>27762231</td>
+    <!--td>27762231</td-->
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/27762231">27762231</a></td>
   </tr>
   <tr>
     <td>Random forest OR RF</td>

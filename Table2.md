@@ -11,6 +11,9 @@
     <td>Artificial Neural networks OR ANN OR ANN</td>
     <td>gene selection; genotype-phenotype analysis; risk classification; transcriptome profiling; variant extraction</td>
     <td>29536823; 32359808; 24631783; 24820964; 25883319</td>
+   <a href="https://pubmed.ncbi.nlm.nih.gov/29536823>29536823;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/32359808>32359808;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/24631783>24631783;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/24820964>24820964;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/25883319>25883319</a>
+
+
   </tr>
   <tr>
     <td>Autoencoder</td>

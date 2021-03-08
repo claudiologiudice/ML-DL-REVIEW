@@ -19,7 +19,8 @@
   <tr>
     <td>Autoencoder</td>
     <td>gene prediction</td>
-    <td>33160303</td>
+    <!--td>33160303</td-->
+  <td><a href="https://pubmed.ncbi.nlm.nih.gov/33160303">33160303</a></td>
   </tr>
   <tr>
     <td>Deep neural networks OR DNNConvolutional Neural Networks or CNN</td>

@@ -14,7 +14,7 @@ This repo contains Figures, Supplementary Materials and scripts related to the r
 </ul>
 
 <ul>Scripts
-<li></li>
+<li><a href="https://github.com/claudiologiudice/ML-DL-REVIEW/blob/main/table.py">table.py</li>
 </ul>
 
 <ul>Database

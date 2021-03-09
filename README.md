@@ -19,4 +19,5 @@ This repo contains Figures, Supplementary Materials and scripts related to the r
 
 <ul>Database
   <li><a href="https://github.com/claudiologiudice/ML-DL-REVIEW/blob/main/ML_DL_review_articles.db.tar.gz">ML_DL_review_articles.db.tar.gz</a></li>
+  <pre>Enable full text searching enable by creating a virtual table using the fts4 engine. <br>This is done like with the following commands:</pre>
 </ul>

@@ -23,13 +23,11 @@ This repo contains Figures, Supplementary Materials and scripts related to the r
   <br>This is done like with the following commands:
   <b>Note.</b> These steps are mandatory in order to use any of our scripts that refer to the database.
   <ul>
-  <ul>
   <li>Open a terminal and type:</li>
   sqlite3 ML_DL_review_articles.db
   <li>From sqlite3 interface type:</li>
   sqlite> CREATE VIRTUAL TABLE ML_DL_review_articles_tab USING fts4(PMID, Title, Abstract, Date);
   sqlite> INSERT INTO ML_DL_review_articles_tab SELECT `PMID`, `Title`, `Abstract`, `Create Date` FROM ML_DL_review_articles;
-  </ul>
   </ul>
   <pre>
 </ul>

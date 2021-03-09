@@ -25,5 +25,5 @@ This repo contains Figures, Supplementary Materials and scripts related to the r
   <br><pre>sqlite3 ML_DL_review_articles.db</pre>
   <br>Inside sqlite3 interface type:
   <br><pre>sqlite> CREATE VIRTUAL TABLE ML_DL_review_articles_tab USING fts4(PMID, Title, Abstract, Date);</pre>
-  <br>sqlite> INSERT INTO ML_DL_review_articles_tab SELECT `PMID`, `Title`, `Abstract`, `Create Date` FROM ML_DL_review_articles;
+  <br><pre>sqlite> INSERT INTO ML_DL_review_articles_tab SELECT `PMID`, `Title`, `Abstract`, `Create Date` FROM ML_DL_review_articles;</pre>
 </ul>

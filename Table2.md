@@ -63,8 +63,8 @@
     <td>Naive Bayes</td>
     <td>gene selection; pharmacogenetic prediction</td>
     <!--td>22369383; 30546092</td-->
-  <td><a href="https://pubmed.ncbi.nlm.nih.gov/22369383">22369383;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/30546092">30546092</a>-
-  <a href="https://pubmed.ncbi.nlm.nih.gov/33033492">33033492</a>-<a href="https://pubmed.ncbi.nlm.nih.gov/33152046">33152046</a>
+  <td><a href="https://pubmed.ncbi.nlm.nih.gov/22369383">22369383;</a> <a href="https://pubmed.ncbi.nlm.nih.gov/30546092">30546092</a> -
+  <a href="https://pubmed.ncbi.nlm.nih.gov/33033492">33033492</a> - <a href="https://pubmed.ncbi.nlm.nih.gov/33152046">33152046</a>
   </td>
 </tr>
   <tr>

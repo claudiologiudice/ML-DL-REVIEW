@@ -21,7 +21,7 @@ This repo contains Figures, Supplementary Materials and scripts related to the r
   <li><a href="https://github.com/claudiologiudice/ML-DL-REVIEW/blob/main/ML_DL_review_articles.db.tar.gz">ML_DL_review_articles.db.tar.gz</a></li>
   <br>Enable full text searching by creating a virtual table using the fts4 engine. 
   <br><b>Note.</b> These steps are mandatory in order to use any of our scripts that refer to the database.
-  <br>Open a terminal and type:
+  <br><br>Open a terminal and type:
   <br>sqlite3 ML_DL_review_articles.db
   <br>From sqlite3 interface type:
   <br>sqlite> CREATE VIRTUAL TABLE ML_DL_review_articles_tab USING fts4(PMID, Title, Abstract, Date);

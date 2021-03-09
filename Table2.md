@@ -74,7 +74,7 @@
     <td>Perceptron</td>
     <td>gene selection; gene prediction</td>
     <!--td>27762231</td-->
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/27762231">27762231;</a><a href="https://pubmed.ncbi.nlm.nih.gov/29186295">29186295</a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/27762231">27762231; </a><a href="https://pubmed.ncbi.nlm.nih.gov/29186295">29186295</a></td>
   </tr>
   <tr>
     <td>Random forest OR RF</td>

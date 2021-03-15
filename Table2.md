@@ -4,7 +4,7 @@
     <th>ML/DL Methods</th>
     <th>Biological Applications</th>
     <th>Associated PMids</th>
-    <th>Relative frequency in the database<a href="user-content-#database">*</a></th>
+    <th>Relative frequency in the database<a href="#db">*</a></th>
   </tr>
 </thead>
 <tbody>
@@ -104,4 +104,4 @@
 </tbody>
 </table></div>
 
-<pre id="#database">*<a href="https://github.com/claudiologiudice/ML-DL-REVIEW/raw/main/ML_DL_review_articles.db.tar.gz">ML_DL_review_articles.db.tar.gz</a></pre>
+<pre id="db">*<a href="https://github.com/claudiologiudice/ML-DL-REVIEW/raw/main/ML_DL_review_articles.db.tar.gz">ML_DL_review_articles.db.tar.gz</a></pre>

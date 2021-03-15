@@ -1,7 +1,7 @@
 <div class="tg-wrap"><table id="tg-lREGD">
 <thead>
   <tr>
-    <th>Tecnique</th>
+    <th>ML/DL Methods</th>
     <th>Biological Applications</th>
     <th>Associated PMids</th>
   </tr>

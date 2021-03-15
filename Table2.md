@@ -4,7 +4,7 @@
     <th>ML/DL Methods</th>
     <th>Biological Applications</th>
     <th>Associated PMids</th>
-    <th>Relative frequency in the database<a href="#database">*</a></th>
+    <th>Relative frequency in the database<a href="user-content-#database">*</a></th>
   </tr>
 </thead>
 <tbody>

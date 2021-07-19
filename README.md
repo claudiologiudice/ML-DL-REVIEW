@@ -1,18 +1,20 @@
 # ML-DL-REVIEW
-This repo contains Tables, Supplementary Materials and scripts related to the review "A primer on state-of-the-art machine learning techniques for genomic applications"
+This repo contains Tables, Supplementary Materials, data and scripts related to the review "A primer on state-of-the-art machine learning techniques for genomic applications"
 
 ### Tables
 <a href="https://github.com/claudiologiudice/ML-DL-REVIEW/blob/main/Table2.md">Table2</a>
 
-
 ### Supplementary files
 <a href="https://github.com/claudiologiudice/ML-DL-REVIEW/blob/main/supplementary_material.pdf">supplementary_material.pdf</a>
 
+### Data
+Folder data contains data used to perform the analysis reported in section 8 of the paper.
 
 ### Scripts
+Folder code containr R code used to perform the analysis reported in section 8 of the paper.
+Otehr scripts include:
 <a href="https://github.com/claudiologiudice/ML-DL-REVIEW/blob/main/table.py">table.py</a><br>
 <a href="https://github.com/claudiologiudice/ML-DL-REVIEW/blob/main/figures.ipynb">figures.ipynb</a>
-
 
 ### Database
 <a href="https://github.com/claudiologiudice/ML-DL-REVIEW/blob/main/ML_DL_review_articles.db.tar.gz">ML_DL_review_articles.db.tar.gz</a>

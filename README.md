@@ -11,8 +11,8 @@ This repo contains Tables, Supplementary Materials, data and scripts related to 
 Folder data contains data used to perform the analysis reported in section 8 of the paper.
 
 ### Scripts
-Folder code containr R code used to perform the analysis reported in section 8 of the paper.
-Otehr scripts include:
+Folder code contains R code used to perform the analysis reported in section 8 of the paper.
+Other scripts include: <br>
 <a href="https://github.com/claudiologiudice/ML-DL-REVIEW/blob/main/table.py">table.py</a><br>
 <a href="https://github.com/claudiologiudice/ML-DL-REVIEW/blob/main/figures.ipynb">figures.ipynb</a>
 

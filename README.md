@@ -1,5 +1,5 @@
 # ML-DL-REVIEW
-This repo contains Tables, Supplementary Materials, data and scripts related to the review "A primer on state-of-the-art machine learning techniques for genomic applications"
+This repo contains Tables, Supplementary Materials, data and scripts related to the review "A primer on machine learning techniques for genomic applications"
 
 ### Tables
 <a href="https://github.com/claudiologiudice/ML-DL-REVIEW/blob/main/Table2.md">Table2</a>
